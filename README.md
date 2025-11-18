@@ -276,7 +276,3 @@ Botones típicos en Excel:
 - **Generar Excel de noticias** → genera/actualiza `news_db.xlsx`.
 
 ---
-
-### Licencia
-
-Por definir. Añade aquí la licencia que quieras usar para el proyecto (por ejemplo, MIT, Apache 2.0, etc.).
